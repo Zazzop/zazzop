@@ -1,4 +1,5 @@
-### Hi there 👋
+
+[![Zazzop's GitHub stats](https://github-readme-stats.vercel.app/api?username=zazzop)](https://github.com/zazzop/github-readme-stats)
 
 <!--
 **Zazzop/zazzop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
